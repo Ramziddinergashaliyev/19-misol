@@ -95,9 +95,8 @@ tr {
   border: 1px solid gray;
 }
 
-.table__row {
-  opacity: 0.8;
-  background: #EEF2F5;
+tr:hover {
+  background: #80bbe9;
 }
 .high__btn {
   width: 74px;
